@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  padding-top: 10px;
+  background-color: aliceblue;
+}
+
+h2 {
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+
+button {
+  padding: 10px 10px;
+  background-color: blue;
+  color: white;
+}
